@@ -3,11 +3,13 @@ This is supposed to change your mouse settings for the Spirit of Gamer Elite M40
 
 # Features
 Change colors.
+
 Colors you can change to:
-Wave 0% Speed
-Wave 25% Speed
-Wave 50% Speed
-Off
+
+- Wave 0% Speed
+- Wave 25% Speed
+- Wave 50% Speed
+- Off
 
 # 🪲 Bugs To Fix
 - [x] ~~HID not working after color change (Remove and plug-in the USB to fix this)~~
